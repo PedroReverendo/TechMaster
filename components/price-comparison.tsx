@@ -32,8 +32,8 @@ const plans = [
   {
     name: "TechMaster Bootcamp",
     description: "Programa intensivo de 4 meses",
-    priceMonthly: "ARS 78.869 / 2.7 HYPE",
-    priceTotal: "ARS 119.789 / 4 HYPE",
+    priceMonthly: "ARS 98.869 / 4.7 HYPE",
+    priceTotal: "ARS 179.789 / 6 HYPE",
     features: [
       { text: "Certificado profesional", included: true },
       { text: "Duración: 2 meses", included: true },
